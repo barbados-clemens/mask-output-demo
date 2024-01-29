@@ -25,5 +25,14 @@
     ],
     "sharedGlobals": []
   },
-  "nxCloudAccessToken": "M2RjMTgzZDItNTk4My00NjA0LWFkZTctODBkN2ZkODUzOGM0fHJlYWQtd3JpdGU="
+  "nxCloudAccessToken": "M2RjMTgzZDItNTk4My00NjA0LWFkZTctODBkN2ZkODUzOGM0fHJlYWQtd3JpdGU=",
+  "tasksRunnerOptions": {
+    "default": {
+      "options": {
+        "maskedProperties": [
+          "MY_SECRET_ENV_VAR"
+        ],
+      }
+    }
+  },
 }
