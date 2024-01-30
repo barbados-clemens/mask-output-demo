@@ -6,11 +6,11 @@
     "some-target": "node ./do-something.js"
   },
   "private": true,
-  "dependencies": {},
   "devDependencies": {
     "@nx/js": "17.2.8",
     "@nx/workspace": "17.2.8",
-    "nx": "17.2.8"
+    "nx": "17.2.8",
+    "nx-cloud": "999.0.0"
   },
   "nx": {}
 }
